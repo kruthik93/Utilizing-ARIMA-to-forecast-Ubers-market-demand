@@ -1,4 +1,4 @@
-# Demand-forecasting-using-ARIMA
+# Uber-market-demand-prediction-using-ARIMA
 Forecasting market demand for Uber using ARIMA time-series model
 
 To effectively use this repository please follow the below steps:
